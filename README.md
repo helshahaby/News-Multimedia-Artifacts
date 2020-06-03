@@ -1,6 +1,8 @@
 # News-Multimedia-Artifacts
-1- Download models from google drive link
-https://drive.google.com/file/d/1FobPmopBWlz3qLZMRUQSAM2nO99scUc7/view?usp=sharing
+1- Download models from MediaFire
+a) https://www.mediafire.com/file/z26dfd7zqh90yvb/AlexNet_News_18a.7z/file
+b) https://www.mediafire.com/file/57lyx8i5mfo1r5v/CNN_FeEx_Le_Net18a.7z/file
+c) https://www.mediafire.com/file/vrb2a6k8urozjhb/RNN_LSTM_Net18a.7z/file
 2- Download news Dataset from https://www.youtube.com/channel/UCH12Od8ajoc1MKeOm32uj1w?view_as=subscriber
 2- run TextExtractor.m
 3- load the news video and the separators folder
