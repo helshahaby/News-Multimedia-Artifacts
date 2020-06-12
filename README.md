@@ -10,3 +10,9 @@ c) https://www.mediafire.com/file/vrb2a6k8urozjhb/RNN_LSTM_Net18a.7z/file
 5- run the program by pressing Fire button
 6- OutputFolderNews folder is generated containing the results.
 7- Open the word file to find all caption text extracted.
+
+RNN Dataset 
+https://www.mediafire.com/file/4nxqumm98ofmi94/RNN_Videos.7z/file
+
+News Dataset Videos
+https://www.mediafire.com/file/fdj5qh0tjertdc8/News_Dataset_Videos.7z/file
